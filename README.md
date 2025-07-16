@@ -60,6 +60,7 @@ Are you ready to cook? 🚀 This is a collection of example code and guides for 
 ### Agentic
 - [Mixture of Agents](/tutorials/mixture-of-agents): Create a mixture-of-agents system powered by Groq.
 - [Game Recap with MoA](/tutorials/agno-mixture-of-agents): Use a mixture-of-agents approach to generate comprehensive MLB game recaps.
+- [AI Pricing Agent](/tutorials/ai-pricing-agent): Build an intelligent agent that collects pricing information from multiple shops using Groq, browser automation, and location services.
 
 
 ## Have questions?
