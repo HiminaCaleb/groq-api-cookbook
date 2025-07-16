@@ -1,0 +1,8 @@
+groq
+python-dotenv
+requests
+aiohttp
+asyncio
+browser-use
+playwright
+beautifulsoup4
